@@ -1,0 +1,11 @@
+services:
+  stable-diffusion-webui:
+    image: sdwebui/stable-diffusion-webui:latest
+    platform: linux/amd64
+    ports:
+      - "7860:7860"
+    volumes:
+      - ./data:/data
+    environment:
+      - CLI_ARGS=--precision full --no-half --use-cpu all
+    restart: unless-stopped
