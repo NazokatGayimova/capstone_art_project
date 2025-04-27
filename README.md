@@ -28,7 +28,8 @@ Design new covers for media pieces using **self-hosted AI image generation**. No
   - Resize Mode: Crop and Resize
 
 - **Screenshot:**
-  - ![Workflow Screenshot](book/workflow_screenshot.png)
+<img width="1470" alt="Screenshot 2025-04-27 at 19 07 13" src="https://github.com/user-attachments/assets/a7b25cce-4e77-4eaf-8d75-faf4ec1473ee" />
+
 
 ---
 
@@ -54,7 +55,8 @@ Design new covers for media pieces using **self-hosted AI image generation**. No
   - Resize Mode: Crop and Resize
 
 - **Screenshot:**
-  - ![Workflow Screenshot](movie/workflow_screenshot.png)
+<img width="1470" alt="Screenshot 2025-04-27 at 19 11 47" src="https://github.com/user-attachments/assets/a254c99a-d2ef-4c71-9e52-16053c3d622b" />
+
 
 ---
 
@@ -80,7 +82,8 @@ Design new covers for media pieces using **self-hosted AI image generation**. No
   - Resize Mode: Crop and Resize
 
 - **Screenshot:**
-  - ![Workflow Screenshot](music/workflow_screenshot.png)
+  <img width="1470" alt="Screenshot 2025-04-27 at 19 15 42" src="https://github.com/user-attachments/assets/5c01f499-4311-4b37-b957-d8e1834d6c1b" />
+
 
 ---
 
